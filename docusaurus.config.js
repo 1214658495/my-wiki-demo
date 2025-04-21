@@ -26,6 +26,7 @@ const config = {
   organizationName: '1214658495', // Usually your GitHub org/user name.
   projectName: 'my-wiki-demo', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -1,3 +1,7 @@
 [submodule "themes/ayer"]
     path = themes/ayer
     url = https://1214658495@github.com/1214658495/my-wiki-demo.git
+
+[user]
+    name = 1214658495
+    email = 1214658495@qq.com
